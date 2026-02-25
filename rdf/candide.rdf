@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/">
+
+  <!-- The TEI digital edition -->
+  <rdf:Description rdf:about="https://github.com/sridipa/tei-voltaire">
+
+    <dc:title>Candide, ou l'Optimisme: Chapter 1 — A TEI P5 Digital Edition</dc:title>
+
+    <dc:creator>
+      <foaf:Person>
+        <foaf:name>Sridipa Dandapat</foaf:name>
+        <foaf:page rdf:resource="https://orcid.org/0000-0002-3788-7210"/>
+      </foaf:Person>
+    </dc:creator>
+
+    <dc:contributor>
+      <foaf:Person>
+        <foaf:name>Voltaire</foaf:name>
+        <foaf:page rdf:resource="http://viaf.org/viaf/36925746"/>
+      </foaf:Person>
+    </dc:contributor>
+
+    <dc:date>2026</dc:date>
+
+    <dc:language>en</dc:language>
+
+    <dc:type>Text</dc:type>
+
+    <dc:format>application/tei+xml</dc:format>
+
+    <dc:rights>
+      Creative Commons Attribution 4.0 International
+    </dc:rights>
+
+    <dcterms:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+
+    <dc:subject>Philosophical fiction</dc:subject>
+    <dc:subject>Satire, French</dc:subject>
+    <dc:subject>Enlightenment literature</dc:subject>
+
+    <dcterms:isFormatOf>
+      <rdf:Description rdf:about="https://www.gutenberg.org/files/19942/19942-h/19942-h.htm">
+        <dc:title>Candide</dc:title>
+        <dc:creator>Voltaire</dc:creator>
+        <dc:publisher>Project Gutenberg</dc:publisher>
+        <dcterms:issued>1759</dcterms:issued>
+      </rdf:Description>
+    </dcterms:isFormatOf>
+
+  </rdf:Description>
+
+</rdf:RDF>
+```
+
+
