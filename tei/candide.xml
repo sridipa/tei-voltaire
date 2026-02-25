@@ -51,4 +51,121 @@
           <term>Enlightenment literature</term>
         </keywords>
       </textClass>
-    </prof
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026" who="#SD">Initial TEI P5 encoding</change>
+    </revisionDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+      <div type="chapter" n="1">
+        <head>Chapter 1</head>
+        <head type="sub">How Candide was brought up in a magnificent castle,
+        and how he was expelled thence</head>
+
+        <p>In a castle of <placeName ref="https://www.geonames.org/2921044">
+        Westphalia</placeName>, lived a youth whom nature had endowed with
+        the most agreeable manners. His face was the index of his mind.
+        He had a solid judgment joined to the most unaffected simplicity;
+        and hence, I presume, he had his name of
+        <persName type="fictional">Candide</persName>.</p>
+
+        <p>The old servants of the family suspected him to have been the son
+        of <persName type="fictional">the Baron</persName>'s sister, by a
+        good, honest gentleman of the neighborhood, whom that young lady
+        refused to marry, because he could only produce threescore and
+        eleven quarterings in his arms; the rest of the genealogical tree
+        belonging to the family having been lost through the injuries of time.</p>
+
+        <p>The <persName type="fictional">Baron</persName> was one of the most
+        powerful lords in <placeName ref="https://www.geonames.org/2921044">
+        Westphalia</placeName>, for his castle had a gate and several windows,
+        and his great hall was even hung with tapestry.</p>
+
+        <p>The <persName type="fictional">Baroness</persName>, who weighed
+        three hundred and fifty pounds, consequently was a person of great
+        consideration, and she did the honours of the house with a dignity
+        that commanded universal respect.</p>
+
+        <p>Her daughter <persName type="fictional">Cunégonde</persName> was
+        seventeen years of age, fresh-coloured, comely, plump, and
+        desirable.</p>
+
+        <p>The Baron's son appeared in every respect worthy of his father.
+        The Preceptor <persName type="fictional">Pangloss</persName> was the
+        oracle of the family, and little
+        <persName type="fictional">Candide</persName> listened to his
+        instructions with all the good faith of his age and
+        character.</p>
+
+        <p><persName type="fictional">Pangloss</persName> taught
+        metaphysico-theologo-cosmolo-nigology. He could prove to admiration
+        that there is no effect without a cause; and, that in this best of
+        all possible worlds, the
+        <persName type="fictional">Baron</persName>'s castle was the most
+        magnificent of all castles, and My Lady the best of all possible
+        baronesses.</p>
+
+        <p>It is demonstrable, said he, that things cannot be otherwise than
+        as they are; for as all things have been created for some end, they
+        must necessarily be created for the best end. Observe, for instance,
+        the nose is formed for spectacles, therefore we wear spectacles.</p>
+
+        <p><persName type="fictional">Candide</persName>, convinced of this
+        doctrine, believed that
+        <persName type="fictional">Cunégonde</persName> was a great beauty,
+        though he had never had the boldness to tell her so. He concluded
+        that after the happiness of being born of
+        <persName type="fictional">Baron Thunder-ten-tronckh</persName>,
+        the second degree of happiness was to be
+        <persName type="fictional">Miss Cunégonde</persName>, the third that
+        of seeing her every day, and the fourth that of hearing
+        <persName type="fictional">Doctor Pangloss</persName>, the greatest
+        philosopher of the whole province, and consequently of the whole
+        world.</p>
+
+        <p>One day <persName type="fictional">Cunégonde</persName>, while
+        walking near the castle, in a little wood which they called a park,
+        saw between the bushes, Dr.
+        <persName type="fictional">Pangloss</persName> giving a lesson in
+        experimental natural philosophy to her mother's chamber-maid, a
+        little brown wench, very pretty and very docile.</p>
+
+        <p>As <persName type="fictional">Miss Cunégonde</persName> had a
+        great disposition for the sciences, she breathlessly observed the
+        repeated experiments of which she was a witness; she clearly
+        perceived the force of the Doctor's reasons, the effects, and the
+        causes; she turned back greatly flurried, quite pensive, and filled
+        with the desire of knowledge, imagining that she might be a
+        sufficiently reason for young
+        <persName type="fictional">Candide</persName>, and he for her.</p>
+
+        <p>She met <persName type="fictional">Candide</persName> on reaching
+        the castle and blushed; he blushed also; she wished him good morning
+        with a faltering voice, and he wished her good morning with equal
+        embarrassment. The next day, after dinner, as they were rising from
+        table, <persName type="fictional">Cunégonde</persName> and
+        <persName type="fictional">Candide</persName> found themselves
+        behind a screen;
+        <persName type="fictional">Cunégonde</persName> let fall her
+        handkerchief, <persName type="fictional">Candide</persName> picked
+        it up, she innocently took hold of his hand, and he as innocently
+        kissed hers with a warmth, a sensibility, a grace — all very
+        particular; their lips met, their eyes sparkled, their knees
+        trembled, their hands strayed.</p>
+
+        <p>The <persName type="fictional">Baron Thunder-ten-tronckh</persName>
+        passed near the screen and beholding this cause and effect, expelled
+        <persName type="fictional">Candide</persName> from the castle with
+        great kicks. <persName type="fictional">Cunégonde</persName> fainted
+        away, and as soon as she came to herself, the
+        <persName type="fictional">Baroness</persName> boxed her ears. Thus
+        a general consternation was spread over this most magnificent and
+        most agreeable of all possible castles.</p>
+
+      </div>
+    </body>
+  </text>
+
+</TEI>
