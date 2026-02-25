@@ -1,4 +1,4 @@
-# TEI Voltaire — Candide Encoding Project
+# TEI Voltaire: Candide Encoding Project
 
 A digital scholarly edition of selections from Voltaire's *Candide* (1759),
 built as a practice project in TEI P5 encoding, XSLT transformation, and 
