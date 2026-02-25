@@ -24,7 +24,7 @@
         <date when="2026">2026</date>
         <availability status="free">
           <licence target="https://creativecommons.org/licenses/by/4.0/">
-            This TEI encoding is licensed under a Creative Commons 
+            This TEI encoding is licensed under a Creative Commons
             Attribution 4.0 International Licence.
           </licence>
         </availability>
@@ -51,14 +51,4 @@
           <term>Enlightenment literature</term>
         </keywords>
       </textClass>
-    </profileDesc>
-    <revisionDesc>
-      <change when="2026" who="#SD">Initial TEI P5 encoding</change>
-    </revisionDesc>
-  </teiHeader>
-
-  <text>
-    <!-- we'll fill this in Layer 3 -->
-  </text>
-
-</TEI>
+    </prof
